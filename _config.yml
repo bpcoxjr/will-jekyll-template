@@ -1,16 +1,16 @@
 # Site settings
 title: A blog about lorem ipsum dolor sit amet
 description: A blog about lorem ipsum dolor sit amet
-baseurl: "/will-jekyll-template" # the subpath of your site, e.g. /blog
-url: "https://willianjusten.com.br" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://bpcoxjr.com" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Lorem Ipsum
-user_description: Anon Developer at Lorem Ipsum Dolor
-user_title: Anon Developer
+username: B. Patrick Cox, Jr.
+user_description: Durham, NC-Based Front-End Web Developer
+user_title: Front-End Web Developer
 email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
+twitter_username: bpcoxjr
+github_username:  bpcoxjr
 gplus_username:  lorem_ipsum
 disqus_username: lorem_ipsum
 
